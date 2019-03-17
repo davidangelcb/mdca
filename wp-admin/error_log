@@ -1,0 +1,10 @@
+[03-Feb-2019 21:06:37 America/Chicago] PHP Warning:  POST Content-Length of 10194934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Feb-2019 21:08:57 America/Chicago] PHP Warning:  POST Content-Length of 10194950 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Feb-2019 21:11:31 America/Chicago] PHP Warning:  POST Content-Length of 10194950 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Feb-2019 21:14:48 America/Chicago] PHP Warning:  POST Content-Length of 10194934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Feb-2019 00:58:24 UTC] PHP Fatal error:  Maximum execution time of 55 seconds exceeded in /home/ysvargas/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php on line 290
+[06-Feb-2019 01:23:51 UTC] PHP Fatal error:  Maximum execution time of 55 seconds exceeded in /home/ysvargas/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer.php on line 298
+[08-Feb-2019 13:57:47 UTC] PHP Fatal error:  Maximum execution time of 55 seconds exceeded in /home/ysvargas/public_html/wp-content/plugins/php-compatibility-checker/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php on line 639
+[19-Feb-2019 23:07:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 84 bytes) in /home/ysvargas/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 953
+[19-Feb-2019 23:07:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/ysvargas/public_html/wp-content/plugins/supreme-modules-for-divi/includes/modules/PriceList/PriceList.php on line 191
+[19-Feb-2019 23:08:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/ysvargas/public_html/wp-content/plugins/supreme-modules-for-divi/includes/modules/PriceList/PriceList.php on line 191

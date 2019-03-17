@@ -1,0 +1,30 @@
+.acme-postbox {
+    padding: 0 5px 10px 10px;
+    margin: 5px 0;
+}
+
+#tabs {
+    width: 90%;
+}
+
+.abmp_new_preset {
+    /*display: none !important;*/
+}
+
+.acme-postbox .button-secondary {
+    margin-top: 20px;
+}
+.acme_abmp_accordion {
+    margin-top: 20px;
+}
+
+.notice.notice-warning.hidden {
+    display: none;
+}
+
+em.acme-tooltip {
+    display: block;
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,89 @@
+#customize-control-featured_slider:after,
+#customize-control-header_padding:before,
+#customize-control-upload_background_image:after,
+#customize-control-indie_global_favicon:after,
+#customize-control-indie_global_apple_icon:after,
+#customize-control-font_headers_weight:after, 
+#customize-control-font_body_weight:after, 
+#customize-control-font_site_tagline_weight:after, 
+#customize-control-font_site_title_weight:after,
+#customize-control-indie_tagline_uppercase:after,
+#customize-control-indie_grid_sub_title:after,
+#customize-control-rss:before
+{
+    clear: both;
+	font-size:12px;
+	font-style:italic;
+	display:block;
+	color:#888;
+}
+#customize-control-rss:before {
+	content:"Note: Put the full url e.g. http://example.com/?feed=rss2";	
+}
+#customize-control-featured_slider:after {
+	content:"Note: Check this box if you the featured slider to appear on the homepage.";
+}
+#customize-control-header_padding:before{
+	content:"Note: Use the exact same file name as your regular logo file and then just put @2x at the end of the name. For example logo@2x.png";
+}
+#customize-control-upload_background_image:after{
+	content:"Note: Make sure your background image is at least 1240px wide.";
+}
+#customize-control-indie_global_favicon:after{
+	content:"Note: Make sure your Favicon Dimensions are 32px x 32px and is saved as .png format";
+}
+#customize-control-indie_global_apple_icon:after{
+	content:"Note: Make sure your Apple App Icon Dimensions are 152px x 152px and is saved as .png format";
+}
+#customize-control-font_headers_weight:after, 
+#customize-control-font_body_weight:after, 
+#customize-control-font_site_tagline_weight:after, 
+#customize-control-font_site_title_weight:after {
+	content:"Note: Some font weights will not work with certain font families. Most will work set to Regular.";
+}
+#customize-control-indie_tagline_uppercase:after{
+	content:'Note: Depending on Font selection, you may not see any change to the font case.';
+}
+#customize-control-indie_grid_sub_title:after{
+	content:'Note: Use these fields if you have a message to add to the homepage.';
+}
+
+/*
+ * Pro Messages
+ */
+
+#accordion-section-indie_social_section > ul:before,
+#customize-control-blogname:before,
+#accordion-section-indie_global_layout > ul:before,
+#accordion-section-indie_homepage_layout > ul:before,
+#accordion-section-indie_footer_colors_section > ul:before,
+#accordion-section-font_site_nav > ul:before,
+#accordion-section-font_site_title > ul:before,
+#accordion-section-font_site_tagline > ul:before,
+#accordion-section-font_body > ul:before,
+#accordion-section-font_headers > ul:before {
+	background: rgb(204, 75, 75);
+	color: #fff;
+	text-align: center;
+	padding: 0.5em;
+	display: inline-block;
+	margin:1em 0 2em;
+	content:"More options in Pro Version";
+}
+
+
+/* Pro Message in Customizer */
+.indie-customize-plus,
+.indie-customize-plus:hover,
+.indie-customize-plus:focus{
+	background: rgb(204, 75, 75);
+	color: #fff;
+	text-align: center;
+	padding: 0.2em 0.7em;
+	display: inline-block;
+	margin: 1em 0 2em;
+}
+.indie-customize-plus:after{
+	content: "➚";
+	padding-left: 0.5em;
+}

@@ -1,0 +1,1026 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acme Divi Modules v1.0.0\n"
+"POT-Creation-Date: 2017-05-03 19:57+0200\n"
+"PO-Revision-Date: 2017-05-03 19:59+0200\n"
+"Last-Translator: Mirko Bianco <mirko@acmemk.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages\n"
+
+#: admin/class-acme-divi-modules-admin.php:164
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/class-acme-divi-modules-admin.php:582
+msgid "Debug Output:"
+msgstr "Output del Debug"
+
+#: admin/class-acme-divi-modules-admin.php:584
+#, php-format
+msgid "Debug Output for %s:"
+msgstr "Output di Debug per l'elemento %s:"
+
+#: admin/class-acme-divi-modules-functions.php:40
+msgid "You currently don't have any projects assigned to a category."
+msgstr "Al momento non ci sono progetti associati a categorie."
+
+#: admin/class-acme-divi-modules-modules.php:82
+#: admin/class-acme-divi-modules-modules.php:683
+#: admin/class-acme-divi-modules-modules.php:1336
+#: admin/class-acme-divi-modules-modules.php:1495
+#: admin/class-acme-divi-modules-modules.php:2560
+msgid "Title"
+msgstr "Titolo"
+
+#: admin/class-acme-divi-modules-modules.php:89
+#: admin/class-acme-divi-modules-modules.php:690
+#: admin/class-acme-divi-modules-modules.php:726
+#: admin/class-acme-divi-modules-modules.php:1314
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/class-acme-divi-modules-modules.php:104
+msgid "Portfolio Image"
+msgstr "Immagine Portfolio"
+
+#: admin/class-acme-divi-modules-modules.php:108
+msgid "Overlay"
+msgstr "Overlay"
+
+#: admin/class-acme-divi-modules-modules.php:112
+msgid "Overlay Icon"
+msgstr "Icona in Overlay"
+
+#: admin/class-acme-divi-modules-modules.php:116
+#: admin/class-acme-divi-modules-modules.php:710
+#: admin/class-acme-divi-modules-modules.php:750
+msgid "Portfolio Title"
+msgstr "Titolo Portfolio"
+
+#: admin/class-acme-divi-modules-modules.php:120
+msgid "Portfolio Post Meta"
+msgstr "Post Meta del Portfolio"
+
+#: admin/class-acme-divi-modules-modules.php:129
+#: admin/class-acme-divi-modules-modules.php:1361
+msgid "Layout"
+msgstr "Layout"
+
+#: admin/class-acme-divi-modules-modules.php:133
+#: admin/class-acme-divi-modules-modules.php:1365
+msgid "Fullwidth"
+msgstr "Fullwidth"
+
+#: admin/class-acme-divi-modules-modules.php:134
+#: admin/class-acme-divi-modules-modules.php:1366
+msgid "Grid"
+msgstr "Griglia"
+
+#: admin/class-acme-divi-modules-modules.php:136
+msgid "Choose your desired portfolio layout style."
+msgstr "Scegli lo stile di layour per il portfolio."
+
+#: admin/class-acme-divi-modules-modules.php:142
+#: admin/class-acme-divi-modules-modules.php:772
+#: admin/class-acme-divi-modules-modules.php:1379
+msgid "Posts Number"
+msgstr "Numero di Post"
+
+#: admin/class-acme-divi-modules-modules.php:145
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Imposta il numero di progetti che verrano mostrati in ogni pagina."
+
+#: admin/class-acme-divi-modules-modules.php:151
+#: admin/class-acme-divi-modules-modules.php:756
+msgid "Select Preset"
+msgstr "Seleziona Preset"
+
+#: admin/class-acme-divi-modules-modules.php:155
+#: admin/class-acme-divi-modules-modules.php:760
+msgid "Choose your presets for this module."
+msgstr "Seleziona un Preset per questo modulo"
+
+#: admin/class-acme-divi-modules-modules.php:161
+#: admin/class-acme-divi-modules-modules.php:778
+msgid "Show Title"
+msgstr "Mostra Titolo"
+
+#: admin/class-acme-divi-modules-modules.php:165
+#: admin/class-acme-divi-modules-modules.php:175
+#: admin/class-acme-divi-modules-modules.php:185
+#: admin/class-acme-divi-modules-modules.php:195
+#: admin/class-acme-divi-modules-modules.php:782
+#: admin/class-acme-divi-modules-modules.php:792
+#: admin/class-acme-divi-modules-modules.php:802
+#: admin/class-acme-divi-modules-modules.php:1392
+#: admin/class-acme-divi-modules-modules.php:1410
+#: admin/class-acme-divi-modules-modules.php:1450
+#: admin/class-acme-divi-modules-modules.php:1514
+#: admin/class-acme-divi-modules-modules.php:1527
+#: admin/class-acme-divi-modules-modules.php:1540
+#: admin/class-acme-divi-modules-modules.php:1553
+#: admin/class-acme-divi-modules-modules.php:1566
+#: admin/class-acme-divi-modules-modules.php:1579
+msgid "Yes"
+msgstr "Sì"
+
+#: admin/class-acme-divi-modules-modules.php:166
+#: admin/class-acme-divi-modules-modules.php:176
+#: admin/class-acme-divi-modules-modules.php:186
+#: admin/class-acme-divi-modules-modules.php:196
+#: admin/class-acme-divi-modules-modules.php:783
+#: admin/class-acme-divi-modules-modules.php:793
+#: admin/class-acme-divi-modules-modules.php:803
+#: admin/class-acme-divi-modules-modules.php:1393
+#: admin/class-acme-divi-modules-modules.php:1411
+#: admin/class-acme-divi-modules-modules.php:1451
+#: admin/class-acme-divi-modules-modules.php:1515
+#: admin/class-acme-divi-modules-modules.php:1528
+#: admin/class-acme-divi-modules-modules.php:1541
+#: admin/class-acme-divi-modules-modules.php:1554
+#: admin/class-acme-divi-modules-modules.php:1567
+#: admin/class-acme-divi-modules-modules.php:1580
+msgid "No"
+msgstr "No"
+
+#: admin/class-acme-divi-modules-modules.php:168
+#: admin/class-acme-divi-modules-modules.php:785
+msgid "Turn project titles on or off."
+msgstr "Mostra o nasconde il titolo del progetto"
+
+#: admin/class-acme-divi-modules-modules.php:171
+#: admin/class-acme-divi-modules-modules.php:788
+#: admin/class-acme-divi-modules-modules.php:1463
+msgid "Show Excerpt"
+msgstr "Mostra Riassunto"
+
+#: admin/class-acme-divi-modules-modules.php:178
+#: admin/class-acme-divi-modules-modules.php:795
+msgid "Turn display excerpt on or off."
+msgstr "Mostra o nasconde il riassunto."
+
+#: admin/class-acme-divi-modules-modules.php:181
+#: admin/class-acme-divi-modules-modules.php:1549
+msgid "Show Categories"
+msgstr "Mostra la categoria"
+
+#: admin/class-acme-divi-modules-modules.php:188
+#: admin/class-acme-divi-modules-modules.php:1556
+msgid "Turn the category links on or off."
+msgstr "Mostra o nasconde il link alla categoria."
+
+#: admin/class-acme-divi-modules-modules.php:191
+#: admin/class-acme-divi-modules-modules.php:1575
+msgid "Show Pagination"
+msgstr "Attiva Pagination"
+
+#: admin/class-acme-divi-modules-modules.php:198
+msgid "Enable or disable pagination for this feed."
+msgstr "Attiva o disattiva la pagination per questo feed."
+
+#: admin/class-acme-divi-modules-modules.php:201
+#: admin/class-acme-divi-modules-modules.php:808
+#: admin/class-acme-divi-modules-modules.php:1642
+#: admin/class-acme-divi-modules-modules.php:2593
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: admin/class-acme-divi-modules-modules.php:205
+#: admin/class-acme-divi-modules-modules.php:812
+#: admin/class-acme-divi-modules-modules.php:1646
+#: admin/class-acme-divi-modules-modules.php:2598
+msgid "Dark"
+msgstr "Scuro"
+
+#: admin/class-acme-divi-modules-modules.php:206
+#: admin/class-acme-divi-modules-modules.php:813
+#: admin/class-acme-divi-modules-modules.php:1647
+#: admin/class-acme-divi-modules-modules.php:2597
+msgid "Light"
+msgstr "Chiaro"
+
+#: admin/class-acme-divi-modules-modules.php:208
+#: admin/class-acme-divi-modules-modules.php:815
+#: admin/class-acme-divi-modules-modules.php:1650
+#: admin/class-acme-divi-modules-modules.php:2600
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Qui puoi impostare il colore del testo su scuro e chiaro. Se hai impostato "
+"un fondo scuro, allora il tuo testo dovrebbe essere chiaro e viceversa se "
+"stai lavorando su un fondo chiaro, il colore del testo dovrebbe essere "
+"impostato su scuro."
+
+#: admin/class-acme-divi-modules-modules.php:211
+#: admin/class-acme-divi-modules-modules.php:838
+msgid "Zoom Icon Color"
+msgstr "Colore dell'icona di Zoom"
+
+#: admin/class-acme-divi-modules-modules.php:217
+#: admin/class-acme-divi-modules-modules.php:844
+#: admin/class-acme-divi-modules-modules.php:1622
+msgid "Hover Overlay Color"
+msgstr "Colore di Overlay su Mouse Over"
+
+#: admin/class-acme-divi-modules-modules.php:223
+#: admin/class-acme-divi-modules-modules.php:850
+#: admin/class-acme-divi-modules-modules.php:1629
+msgid "Hover Icon Picker"
+msgstr "Scegli Icona su Mouse Over"
+
+#: admin/class-acme-divi-modules-modules.php:232
+#: admin/class-acme-divi-modules-modules.php:859
+#: admin/class-acme-divi-modules-modules.php:1677
+#: admin/class-acme-divi-modules-modules.php:2644
+msgid "Disable on"
+msgstr "Disabilita su"
+
+#: admin/class-acme-divi-modules-modules.php:235
+#: admin/class-acme-divi-modules-modules.php:862
+#: admin/class-acme-divi-modules-modules.php:1680
+#: admin/class-acme-divi-modules-modules.php:2647
+msgid "Phone"
+msgstr "Telefono"
+
+#: admin/class-acme-divi-modules-modules.php:236
+#: admin/class-acme-divi-modules-modules.php:863
+#: admin/class-acme-divi-modules-modules.php:1681
+#: admin/class-acme-divi-modules-modules.php:2648
+msgid "Tablet"
+msgstr "Tablet"
+
+#: admin/class-acme-divi-modules-modules.php:237
+#: admin/class-acme-divi-modules-modules.php:864
+#: admin/class-acme-divi-modules-modules.php:1682
+#: admin/class-acme-divi-modules-modules.php:2649
+msgid "Desktop"
+msgstr "Desktop"
+
+#: admin/class-acme-divi-modules-modules.php:241
+#: admin/class-acme-divi-modules-modules.php:868
+#: admin/class-acme-divi-modules-modules.php:1686
+#: admin/class-acme-divi-modules-modules.php:2653
+msgid "This will disable the module on selected devices"
+msgstr "Con questa opzione disabiliti il modulo sui dispositivi selezionati"
+
+#: admin/class-acme-divi-modules-modules.php:244
+#: admin/class-acme-divi-modules-modules.php:871
+#: admin/class-acme-divi-modules-modules.php:1689
+#: admin/class-acme-divi-modules-modules.php:2656
+msgid "Admin Label"
+msgstr "Etichetta Amministratore"
+
+#: admin/class-acme-divi-modules-modules.php:246
+#: admin/class-acme-divi-modules-modules.php:873
+#: admin/class-acme-divi-modules-modules.php:1691
+#: admin/class-acme-divi-modules-modules.php:2658
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+"Questa opzione modifica l'etichetta del modulo nel builder per renderne più "
+"semplice l'identificazione"
+
+#: admin/class-acme-divi-modules-modules.php:249
+#: admin/class-acme-divi-modules-modules.php:876
+#: admin/class-acme-divi-modules-modules.php:1694
+#: admin/class-acme-divi-modules-modules.php:2661
+msgid "CSS ID"
+msgstr "ID CSS"
+
+#: admin/class-acme-divi-modules-modules.php:256
+#: admin/class-acme-divi-modules-modules.php:883
+#: admin/class-acme-divi-modules-modules.php:1701
+#: admin/class-acme-divi-modules-modules.php:2668
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+#: admin/class-acme-divi-modules-modules.php:379
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: admin/class-acme-divi-modules-modules.php:384
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: admin/class-acme-divi-modules-modules.php:714
+msgid "Portfolio Item"
+msgstr "Elemento del Portfolio"
+
+#: admin/class-acme-divi-modules-modules.php:718
+msgid "Item Overlay"
+msgstr "Overley dell'elemento"
+
+#: admin/class-acme-divi-modules-modules.php:722
+msgid "Item Title"
+msgstr "Titolo dell'Elemento"
+
+#: admin/class-acme-divi-modules-modules.php:730
+msgid "Navigation Arrows"
+msgstr "Frecce di Navigazione"
+
+#: admin/class-acme-divi-modules-modules.php:753
+msgid "Title displayed above the portfolio."
+msgstr "Mostra il titolo sopra al portfolio"
+
+#: admin/class-acme-divi-modules-modules.php:766
+msgid "Display Max Columns"
+msgstr "Numero massimo di colonne"
+
+#: admin/class-acme-divi-modules-modules.php:769
+msgid ""
+"Comma Separated Values for responsive breakpoints: 1600|1024|768|480|320. "
+"This will affect the number of columns per row."
+msgstr ""
+"Inserire valori separati da virgola per i breakpoint responsivi: 1600|1024|"
+"768|480|320- Questo valore si applica sul numero di colonne del carousel."
+
+#: admin/class-acme-divi-modules-modules.php:775
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Controlla quanti progetti vengono mostrati. Lasciare vuoto o 0 per non "
+"impostare limiti."
+
+#: admin/class-acme-divi-modules-modules.php:798
+#: admin/class-acme-divi-modules-modules.php:1536
+msgid "Show Date"
+msgstr "Mostra la Data"
+
+#: admin/class-acme-divi-modules-modules.php:805
+msgid "Turn the date display on or off."
+msgstr "Imposta la visualizzazione della data"
+
+#: admin/class-acme-divi-modules-modules.php:818
+msgid "Automatic Carousel Rotation"
+msgstr "Rotazione automatica del Carousel"
+
+#: admin/class-acme-divi-modules-modules.php:822
+#: admin/class-acme-divi-modules-modules.php:1479
+#: admin/class-acme-divi-modules-modules.php:1601
+#: admin/class-acme-divi-modules-modules.php:1667
+msgid "Off"
+msgstr "Off"
+
+#: admin/class-acme-divi-modules-modules.php:823
+#: admin/class-acme-divi-modules-modules.php:1480
+#: admin/class-acme-divi-modules-modules.php:1602
+#: admin/class-acme-divi-modules-modules.php:1668
+msgid "On"
+msgstr "On"
+
+#: admin/class-acme-divi-modules-modules.php:828
+msgid ""
+"If the carousel layout option is chosen and you would like the carousel to "
+"slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Se il layout carousel è selezionato e desideri che sle slide ruotino "
+"automaticamente senza l'intervento del visitatore, abilita questa opzione e "
+"imposta il valore di rotazione."
+
+#: admin/class-acme-divi-modules-modules.php:831
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Velocità di rotazione del Carousel (in ms)"
+
+#: admin/class-acme-divi-modules-modules.php:835
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Qui puoi impostare la velocità di rotazione del Carouel relativa all'opzione "
+"'Rotazione automatica del Carousel'. Più elevato è il numero, maggiore sarà "
+"la pausa tra ciascuna slide. Il valore è inserito in millisecondi."
+
+#: admin/class-acme-divi-modules-modules.php:1307
+#: admin/class-acme-divi-modules-modules.php:2527
+msgid "Header"
+msgstr "Header"
+
+#: admin/class-acme-divi-modules-modules.php:1320
+#: admin/class-acme-divi-modules-modules.php:2534
+msgid "Body"
+msgstr "Body"
+
+#: admin/class-acme-divi-modules-modules.php:1340
+msgid "Post Meta"
+msgstr "Post Meta"
+
+#: admin/class-acme-divi-modules-modules.php:1344
+msgid "Pagenavi"
+msgstr "Pagenavi"
+
+#: admin/class-acme-divi-modules-modules.php:1348
+msgid "Featured Image"
+msgstr "Immmagine in evidenza"
+
+#: admin/class-acme-divi-modules-modules.php:1352
+#: admin/class-acme-divi-modules-modules.php:1475
+msgid "Read More Button"
+msgstr "Pulsante Leggi di Più"
+
+#: admin/class-acme-divi-modules-modules.php:1373
+msgid "Toggle between the various blog layout types."
+msgstr "Attiva i vari layout di blog"
+
+#: admin/class-acme-divi-modules-modules.php:1382
+msgid "Choose how much posts you would like to display per page."
+msgstr "Scegli quanti post vuoi mostrare per ogni pagina."
+
+#: admin/class-acme-divi-modules-modules.php:1388
+msgid "Use Masonry"
+msgstr "Utilizza Masonry"
+
+#: admin/class-acme-divi-modules-modules.php:1396
+msgid "Apply a nice masonry effect and choose how many columns to display."
+msgstr ""
+"Applica un piacevole effetto Masonry e ti consente di selezionare il numero "
+"di colonne in cui suddividere il modulo."
+
+#: admin/class-acme-divi-modules-modules.php:1399
+msgid "Masonry Columns"
+msgstr "Numero Colonne (per Masonry)"
+
+#: admin/class-acme-divi-modules-modules.php:1403
+msgid ""
+"Choose how many columns you want to display. Comma Separated Values for "
+"element widths: 1600|1024|768|480|320. This will affect the number of "
+"columns per row."
+msgstr ""
+"Indica quante colonne andranno impostate per ciascuna riga. Il campo accetta "
+"valori separati da virgola che seguono lo schema delle larghezze: 1600|1024|"
+"768|480|320."
+
+#: admin/class-acme-divi-modules-modules.php:1406
+msgid "Random Size"
+msgstr "Dimensione Casuale"
+
+#: admin/class-acme-divi-modules-modules.php:1415
+msgid ""
+"Some items will display double sized. Set to No if you want to set double "
+"size elements manually or leave all the elements at the same size"
+msgstr ""
+"Alcuni elementi verranno mostrati a dimensione doppia. Imposta il campo No "
+"se vuoi impostare manualmente gli elementi a doppia dimensione, o se vuoi "
+"visualizzare tutti gli elementi alla stessa dimensione."
+
+#: admin/class-acme-divi-modules-modules.php:1418
+msgid "Double Size Field"
+msgstr "Nome Campo per Dimensione Doppia"
+
+#: admin/class-acme-divi-modules-modules.php:1422
+msgid ""
+"If you want to display specific post in double size, define the Custom Field "
+"name you want to use. In your post you must this very Custom Field and "
+"assign a non empty value to it. For instance fill the value `divi-ds` here "
+"and add the same custom field `divi-ds` with value `1` to the posts you want "
+"to display double size. Leave blank if you want to keep all elements at the "
+"same size."
+msgstr ""
+"Se vuoi che alcuni post vengano visualizzati a dimensione doppia, definisci "
+"qui il nome del Campo Personalizzato che userai nei tuoi post, dove "
+"imposterai un qualsiasi valore non nullo. Ad esempio puoi indicare qui il "
+"valore `divi-ds` e aggiungere il medesimo campo personalizzato `divi-ds` a "
+"tutti quei post che vuoi visualizzare a dimensione doppia. Lascia questo "
+"campo vuoto se invece vuoi che tutti gli elementi abbiano la stessa "
+"dimensione."
+
+#: admin/class-acme-divi-modules-modules.php:1425
+msgid "Include Categories"
+msgstr "Includi Categorie"
+
+#: admin/class-acme-divi-modules-modules.php:1431
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Scegli quali categorie vorresti includere nel feed."
+
+#: admin/class-acme-divi-modules-modules.php:1437
+msgid "Meta Date Format"
+msgstr "Formato Data"
+
+#: admin/class-acme-divi-modules-modules.php:1440
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Se vuoi modificare il formato della data, inserisci il relativo valore PHP."
+
+#: admin/class-acme-divi-modules-modules.php:1446
+msgid "Show Featured Image"
+msgstr "Mostra Immagine in Evidenza"
+
+#: admin/class-acme-divi-modules-modules.php:1453
+msgid "This will turn thumbnails on and off."
+msgstr "Questo attiverà o disattiverà l'icona immagine"
+
+#: admin/class-acme-divi-modules-modules.php:1459
+#: admin/class-acme-divi-modules-modules.php:2610
+msgid "Content"
+msgstr "Contenuto"
+
+#: admin/class-acme-divi-modules-modules.php:1464
+msgid "Show Content"
+msgstr "Mostra Contenuto"
+
+#: admin/class-acme-divi-modules-modules.php:1469
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Se scegli di mostrare il contenuto intero, non verrà troncato nella index "
+"page. Se invece scegli di mostrare il riassunto, il tuo articolo mostrerà "
+"solamente questo."
+
+#: admin/class-acme-divi-modules-modules.php:1483
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr "Scegli se mostrare il \"leggi di più\" dopo il riassunto."
+
+#: admin/class-acme-divi-modules-modules.php:1489
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:118
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:120
+msgid "Order By"
+msgstr "Ordina per"
+
+#: admin/class-acme-divi-modules-modules.php:1493
+msgid "Date"
+msgstr "Data"
+
+#: admin/class-acme-divi-modules-modules.php:1494
+msgid "Modified Date"
+msgstr "Data di Modifica"
+
+#: admin/class-acme-divi-modules-modules.php:1496
+msgid "Name"
+msgstr "Nome"
+
+#: admin/class-acme-divi-modules-modules.php:1498
+msgid "Random Order"
+msgstr "Ordine Casuale"
+
+#: admin/class-acme-divi-modules-modules.php:1499
+msgid "Author"
+msgstr "Autore"
+
+#: admin/class-acme-divi-modules-modules.php:1504
+msgid "Apply custom order to Blog Module"
+msgstr "Applica l'ordinamento personalizzato al modulo Blog"
+
+#: admin/class-acme-divi-modules-modules.php:1510
+msgid "Reverse Order"
+msgstr "Ordine Inverso"
+
+#: admin/class-acme-divi-modules-modules.php:1517
+msgid "Turn on or off the reverse order of posts."
+msgstr "Attiva l'ordinamento inverso dei post."
+
+#: admin/class-acme-divi-modules-modules.php:1523
+msgid "Show Author"
+msgstr "Mostra l'autore"
+
+#: admin/class-acme-divi-modules-modules.php:1530
+msgid "Turn on or off the author link."
+msgstr "Attiva il link alla pagina dell'autore"
+
+#: admin/class-acme-divi-modules-modules.php:1543
+msgid "Turn the date on or off."
+msgstr "Visualizza la data dell'articolo"
+
+#: admin/class-acme-divi-modules-modules.php:1562
+msgid "Show Comment Count"
+msgstr "Mostra il conteggio dei commenti"
+
+#: admin/class-acme-divi-modules-modules.php:1569
+msgid "Turn comment count on and off."
+msgstr "Attiva o disattiva il conteggio dei commenti"
+
+#: admin/class-acme-divi-modules-modules.php:1582
+msgid "Turn pagination on and off."
+msgstr "Attiva la pagination"
+
+#: admin/class-acme-divi-modules-modules.php:1588
+msgid "Offset Number"
+msgstr "Valore di Offset"
+
+#: admin/class-acme-divi-modules-modules.php:1591
+msgid "Choose how many posts you would like to offset by"
+msgstr "Scegli a quando impostare l'offset di visualizzazione degli articoli"
+
+#: admin/class-acme-divi-modules-modules.php:1597
+msgid "Featured Image Overlay"
+msgstr "Overlay dell'immagine in evidenza"
+
+#: admin/class-acme-divi-modules-modules.php:1609
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the featured image of a post."
+msgstr ""
+"Se l'opzione è abilitata, un'icona e un colore di overlay verranno "
+"visualizzati quando il visitatore andrà in mouse over sull'immagine in "
+"evidenza"
+
+#: admin/class-acme-divi-modules-modules.php:1615
+msgid "Overlay Icon Color"
+msgstr "Colore dell'icona Overlay"
+
+#: admin/class-acme-divi-modules-modules.php:1619
+msgid "Here you can define a custom color for the overlay icon"
+msgstr "Imposta un colore personalizzato per l'icona di overlay"
+
+#: admin/class-acme-divi-modules-modules.php:1626
+msgid "Here you can define a custom color for the overlay"
+msgstr "Imposta un colore di overlay personalizzato"
+
+#: admin/class-acme-divi-modules-modules.php:1636
+msgid "Here you can define a custom icon for the overlay"
+msgstr "Imposta un'icona personalizzata per l'overlay"
+
+#: admin/class-acme-divi-modules-modules.php:1653
+msgid "Grid Tile Background Color"
+msgstr "Colore di fondo delle caselle della griglia"
+
+#: admin/class-acme-divi-modules-modules.php:1663
+msgid "Use Dropshadow"
+msgstr "Applica ombreggiatura"
+
+#: admin/class-acme-divi-modules-modules.php:1941
+#: admin/class-acme-divi-modules-modules.php:2338
+#, php-format
+msgid "by %s"
+msgstr "per %s"
+
+#: admin/class-acme-divi-modules-modules.php:1951
+#: admin/class-acme-divi-modules-modules.php:2348
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/class-acme-divi-modules-modules.php:1999
+#: admin/class-acme-divi-modules-modules.php:2390
+msgid "read more..."
+msgstr "leggi di più..."
+
+#: admin/class-acme-divi-modules-modules.php:2036
+#: admin/class-acme-divi-modules-modules.php:2403
+msgid "read more"
+msgstr "leggi di più"
+
+#: admin/class-acme-divi-modules-modules.php:2484
+msgid "ACME Slide In"
+msgstr "ACME Slide In"
+
+#: admin/class-acme-divi-modules-modules.php:2550
+msgid "Promo Button"
+msgstr "Pulsante Azione"
+
+#: admin/class-acme-divi-modules-modules.php:2563
+msgid "Input title here."
+msgstr "Inserisci qui il titolo della Slide"
+
+#: admin/class-acme-divi-modules-modules.php:2566
+msgid "Button URL"
+msgstr "URL Pulsante"
+
+#: admin/class-acme-divi-modules-modules.php:2569
+msgid "Input the destination URL for your Slide button."
+msgstr "Inserisci l'URL di destinazione del pulsante"
+
+#: admin/class-acme-divi-modules-modules.php:2572
+msgid "Url Opens"
+msgstr "L'URL si apre"
+
+#: admin/class-acme-divi-modules-modules.php:2576
+msgid "In The Same Window"
+msgstr "Nella stessa scheda"
+
+#: admin/class-acme-divi-modules-modules.php:2577
+msgid "In The New Tab"
+msgstr "In una nuova scheda"
+
+#: admin/class-acme-divi-modules-modules.php:2579
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Qui puoi scegliere se far aprire il tuo link in una nuova scheda"
+
+#: admin/class-acme-divi-modules-modules.php:2582
+msgid "Button Text"
+msgstr "Testo del Pulsante"
+
+#: admin/class-acme-divi-modules-modules.php:2585
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+"Inserisci il testo per il tuo pulsante, oppure lascia il campo vuoto se non "
+"vuoi creare alcun pulsante."
+
+#: admin/class-acme-divi-modules-modules.php:2588
+msgid "Background Color"
+msgstr "Colore di Fondo"
+
+#: admin/class-acme-divi-modules-modules.php:2590
+msgid "Here you can define a custom background color for your Slide In."
+msgstr "Imposta qui il colore di fondo della tua Slide"
+
+#: admin/class-acme-divi-modules-modules.php:2603
+msgid "Text Orientation"
+msgstr "Orientamento del testo"
+
+#: admin/class-acme-divi-modules-modules.php:2607
+msgid "This will adjust the alignment of the module text."
+msgstr "Questo imposterà l'allinemanto del testo della slide"
+
+#: admin/class-acme-divi-modules-modules.php:2613
+msgid "Input the main text content for your module here."
+msgstr "Inserisci qui il testo principale del modulo"
+
+#: admin/class-acme-divi-modules-modules.php:2616
+msgid "Slide Height"
+msgstr "Altezza della Slide"
+
+#: admin/class-acme-divi-modules-modules.php:2620
+msgid "Here you can set the Slide In height in pixels. Default value is 60px"
+msgstr ""
+"Imposta qui il valore in pixel relativo all'altezza della slide. Il valore "
+"predefinito è di 60 pixels"
+
+#: admin/class-acme-divi-modules-modules.php:2623
+msgid "Cookie Expiration time"
+msgstr "Durata del Cookie"
+
+#: admin/class-acme-divi-modules-modules.php:2627
+msgid "Days before slide in is shown again. Default value is 1 day"
+msgstr ""
+"Tempo in giorni prima che lo slide in appaia nuovamente al visitatore. Il "
+"valore predefinito è 1 giono"
+
+#: admin/class-acme-divi-modules-modules.php:2630
+msgid "Close Btn Bg Color"
+msgstr "Fondo Pulsante chiusura"
+
+#: admin/class-acme-divi-modules-modules.php:2634
+msgid "Here you can define a custom background color for Close Button."
+msgstr "Imposta qui il colore di fondo del pulsante di chiusura"
+
+#: admin/class-acme-divi-modules-modules.php:2637
+msgid "Close Btn Color"
+msgstr "Colore pulsante chiusura"
+
+#: admin/class-acme-divi-modules-modules.php:2641
+msgid "Here you can define a custom foreground color for Close."
+msgstr "Imposta qui il colore del simbolo di chiusura all'interno del pulsante"
+
+#: admin/partials/acme-divi-modules-admin-display-abmb-main-form.php:25
+#: admin/partials/acme-divi-modules-admin-display-abmp-main-form.php:24
+#: admin/partials/acme-divi-modules-admin-display-abmsi-main-form.php:25
+msgid "Please click Save to apply changes."
+msgstr "Clicca su 'Salva' per applicare le modifiche."
+
+#: admin/partials/acme-divi-modules-admin-display-abmb-main-form.php:33
+#: admin/partials/acme-divi-modules-admin-display.php:38
+msgid "Extended Blog Module"
+msgstr "Modulo Blog Esteso"
+
+#: admin/partials/acme-divi-modules-admin-display-abmb-main-form.php:35
+#: admin/partials/acme-divi-modules-admin-display-abmb-main-form.php:39
+#: admin/partials/acme-divi-modules-admin-display-abmp-main-form.php:34
+#: admin/partials/acme-divi-modules-admin-display-abmp-main-form.php:38
+#: admin/partials/acme-divi-modules-admin-display-abmsi-main-form.php:35
+#: admin/partials/acme-divi-modules-admin-display-abmsi-main-form.php:39
+msgid "Enable"
+msgstr "Abilita"
+
+#: admin/partials/acme-divi-modules-admin-display-abmb-main-form.php:42
+msgid ""
+"Acme Blog Module, will let you sort and order your posts. Also adds support "
+"to masonry.js: you can change the default column number for the Divi grid. "
+msgstr ""
+"Acme Blog Module ti permette di modificare l'ordinamento dei tuoi post. "
+"Inoltre aggiunge il supporto alla libreria masonry.js: in questo modo potrai "
+"suddividere i tuoi post in un numero di colonne arbitrario e applicare un "
+"piacevole effetto masonry."
+
+#: admin/partials/acme-divi-modules-admin-display-abmb-main-form.php:43
+#: admin/partials/acme-divi-modules-admin-display-abmp-main-form.php:46
+#: admin/partials/acme-divi-modules-admin-display-abmsi-main-form.php:43
+#: admin/partials/acme-divi-modules-admin-display-options.php:106
+msgid "Save all changes"
+msgstr "Salva"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-main-form.php:32
+#: admin/partials/acme-divi-modules-admin-display.php:39
+msgid "Extended Portfolio"
+msgstr "Extended Portfolio"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:80
+#, php-format
+msgid "Preset #%s: %s"
+msgstr "Preset #%s: %s"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:84
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:86
+#, php-format
+msgid "Preset #%s name:"
+msgstr "Nome del preset n.%s:"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:93
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:95
+msgid "Select Post Type:"
+msgstr "Seleziona un Tipo di Post:"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:106
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:108
+msgid "Select Taxonomy:"
+msgstr "Seleziona una Tassonomia:"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:128
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:130
+msgid "Order"
+msgstr "Ordinamento"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:138
+msgid "Terms List:"
+msgstr "Elenco dei Termini:"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:144
+msgid "Fullwidth Options:"
+msgstr "Opzioni visualizzazione Fullwidth:"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:147
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:148
+msgid "Extra Fields (post_meta):"
+msgstr "Campi Aggiuntivi (post_meta):"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:152
+msgid ""
+"Fill in one or more custom fields to be displayed in portfolio. Comma "
+"separated values with no spaces are accepted."
+msgstr ""
+"Inserisci uno o più campi aggiuntivi da visualizzare nel Portfolio. Valori "
+"separati da virgola, senza spazi."
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:155
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:156
+msgid "Override permalink (post_meta):"
+msgstr "Sostituisci il permalink (post_meta):"
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-post_type-loop.php:160
+msgid ""
+"Insert the post_meta name containing a target url. This option allows you to "
+"override the default link to the portfolio page with an alternate "
+"destination url. You may transform each item in a Call To Action."
+msgstr ""
+"Inserisci un post_meta che contiene un url valido. Questa opzione ti "
+"consente di sostituire il link predefinito all'elemento del portfolio, con "
+"una destinazione url a tuo piacimento. In questo modo puoi trasformare "
+"ciascun elemento del Portfolio in una Call To Action."
+
+#: admin/partials/acme-divi-modules-admin-display-abmp-terms-loop.php:47
+msgid "No Term available for this taxonomy"
+msgstr "Nessun termine trovato in questa tassonomia"
+
+#: admin/partials/acme-divi-modules-admin-display-abmsi-main-form.php:33
+#: admin/partials/acme-divi-modules-admin-display.php:40
+msgid "Slide In Module"
+msgstr "Modulo Slide In"
+
+#: admin/partials/acme-divi-modules-admin-display-abmsi-main-form.php:42
+msgid ""
+"Acme Slide In Module will create a nice slide-in prompt box for your site. "
+"Based on Elegant Themes website slide in and on <a href=\"https://divilife."
+"com/creating-slide-in-promo-bar-in-divi/\" target=\"_blank\">Divi Life "
+"tutorial</a>"
+msgstr ""
+"Il modulo ACME Slide In è pensato per creare un effetto slide in in testa al "
+"tuo sito. Il funzionalmento è basato su una slide del sito di Elegant Themes "
+"e sul tutoria prodotto da <a href=\"https://divilife.com/creating-slide-in-"
+"promo-bar-in-divi/\" target=\"_blank\">Divi Life tutorial</a>"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:52
+msgid "Change Project Slug"
+msgstr "Modifica lo slug 'project'"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:54
+#: admin/partials/acme-divi-modules-admin-display-options.php:55
+msgid "New project slug name:"
+msgstr "Nuovo nome della slug 'project':"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:58
+msgid ""
+"This option will change the url slug used by Divi Project taxonomy. It won't "
+"change taxonomy and it is not translatable. After changing this value you "
+"should open permalinks menu and save."
+msgstr ""
+"Questa opzione modificherà lo slug utilizzato nella tassonomia Divi "
+"(projects). Il termine inserito non modificherà la tassonomia e non sarà "
+"traducibile. Per rendere funzionante il nuovo slug devi aprire il menu "
+"impostazioni - permalink e salvare."
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:63
+msgid "Extend Page Builder to additional Post Types:"
+msgstr "Estendi il Page Builder per i seguenti Tipi di Post:"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:78
+msgid ""
+"Here you can choose to extend the Divi Builder functionality to your "
+"additional post types. As Elegant Themes reports: it’s important to note "
+"that this method will not work with every single custom post type out there. "
+"Or with every third party plugin using custom post types."
+msgstr ""
+"Con questa opzione puoi scegliere di estendere il Divi Builder a tipi di "
+"post aggiuntivi. Come segnalato anche da Elegant Themes, è importante notare "
+"che questo metodo non funziona con ogni singolo tipo di post personalizzato, "
+"oppure con qualunque plugin di terze parti che utilizza tipi di post "
+"personalizzati. "
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:84
+msgid "Change Divi Image size/ratio"
+msgstr "Modifica la dimnesione e le proporzioni delle immagini Divi"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:85
+msgid ""
+"This feature lets you change the default size and ratio of Divi images."
+"<br>Note that this doesn't affect some image sizes defined by WordPress or "
+"by external plugins.<br><strong>Once changed these settings you should "
+"regenerate thumbnails.</strong> You can use some external plugin to do the "
+"job."
+msgstr ""
+"Queste opzioni ti consentono di modificare le dimensioni e le proporzioni "
+"delle immagini di Divi.<br>Attenzione che queste impostazioni non "
+"influiscono su altre immagini impostate da WordPress o fa plugin esterni."
+"<br><strong>Una volta modificati questi valori può essere necessario "
+"rigenerare le thumbnails di WordPress.</strong> Puoi eseguire questa "
+"operazione con plugin specifici."
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:89
+#: admin/partials/acme-divi-modules-admin-display-options.php:90
+msgid "Width:"
+msgstr "Larghezza:"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:93
+#: admin/partials/acme-divi-modules-admin-display-options.php:94
+msgid "Height:"
+msgstr "Altezza:"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:97
+#: admin/partials/acme-divi-modules-admin-display-options.php:101
+msgid "Crop:"
+msgstr "Ritaglia:"
+
+#: admin/partials/acme-divi-modules-admin-display-options.php:103
+#, php-format
+msgid "Default Divi settings are %s"
+msgstr "Le impostazioni predefinite di divi sono %s"
+
+#: admin/partials/acme-divi-modules-admin-display.php:24
+#, php-format
+msgid ""
+"Divi Builder is not installed. Don't panic, you can still download it %shere"
+"%s."
+msgstr ""
+"Il Divi Builder non è installato. Nessun problema, puoi scaricarlo %squi%s."
+
+#: admin/partials/acme-divi-modules-admin-display.php:37
+msgid "Basic Settings"
+msgstr "Impostazioni di Base"
+
+#~ msgid ""
+#~ "This feature lets you change the default size and ratio of Divi images."
+#~ "<br>Note that this doesn't affect some image sizes defined by WordPress "
+#~ "or by external plugins."
+#~ msgstr ""
+#~ "Questa opzione ti consente di modificare le dimensioni e le proporzioni "
+#~ "delle immagini Divi.<br>Attenzione, queste impostazioni non si applicano "
+#~ "ad immagini impostate da WordPress o da altri plugin esterni."
+
+#~ msgid "Input your value to action title here."
+#~ msgstr "Inserisci qui il titolo del modulo"
+
+#~ msgid "Base Settings"
+#~ msgstr "Impostazioni Principali"
+
+#~ msgid ""
+#~ "Acme Blog Module, will add the ability to change the order of the post. "
+#~ "You can choose the filed to sort by and descending order too."
+#~ msgstr ""
+#~ "Acme Blog Module ti da la possibilità di modificare l'ordinamento dei "
+#~ "post. Puoi scegliere per quale campo applicare l'ordinamento e se "
+#~ "invertirlo."
+
+#~ msgid ""
+#~ "This option will change the url slug used by Divi Project taxonomy. It "
+#~ "won't change taxonomy and it is not translatable."
+#~ msgstr ""
+#~ "Con questa opzione puoi modificare lo slug dell'url utilizzato dalla "
+#~ "tassonomia 'project' di Divi. Attenzione, questa impostazione non "
+#~ "modificherà la tassonomia stessa, ma solo il valore visualizzato nel "
+#~ "front-end. Il valore impostato non è traducibile."

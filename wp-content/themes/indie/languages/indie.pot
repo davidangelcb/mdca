@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reznor\n"
+"POT-Creation-Date: 2017-08-20 16:53-0000\n"
+"PO-Revision-Date: 2017-08-20 16:53-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: ./.\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:54
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:66
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:25 ../content-quote.php:11 ../content.php:145
+msgid "Edit"
+msgstr ""
+
+#: ../content.php:12
+msgid "Featured"
+msgstr ""
+
+#: ../content.php:63
+msgid "by"
+msgstr ""
+
+#: ../content.php:66
+msgid "0 Comments"
+msgstr ""
+
+#: ../content.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:66
+msgid "% Comments"
+msgstr ""
+
+#: ../content.php:82
+msgid "Slide Image"
+msgstr ""
+
+#: ../content.php:115
+msgid "Read More"
+msgstr ""
+
+#: ../content.php:137
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../content.php:147
+msgid "share on Facebook"
+msgstr ""
+
+#: ../content.php:148
+msgid "share on Twitter"
+msgstr ""
+
+#: ../content.php:155
+msgid "Tags:"
+msgstr ""
+
+#: ../footer.php:18 ../footer.php:24 ../footer.php:30
+msgid "Widget Ready"
+msgstr ""
+
+#: ../footer.php:19 ../footer.php:25 ../footer.php:31
+msgid "This right column is widget ready! Add one in the admin panel."
+msgstr ""
+
+#: ../footer.php:58
+msgid "Indie free Minimalist WordPress Theme developed by"
+msgstr ""
+
+#: ../footer.php:58
+msgid "Template Express &copy;"
+msgstr ""
+
+#: ../footer.php:67
+msgid "Back to top"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:80
+msgid "Twitter Username"
+msgstr ""
+
+#: ../functions.php:81
+msgid "Facebook Username"
+msgstr ""
+
+#: ../functions.php:82
+msgid "Google Plus Username"
+msgstr ""
+
+#: ../functions.php:83
+msgid "Tumblr Username"
+msgstr ""
+
+#: ../functions.php:84
+msgid "Instagram Username"
+msgstr ""
+
+#: ../functions.php:85
+msgid "Pinterest Username"
+msgstr ""
+
+#: ../functions.php:99
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:101
+msgid "Main sidebar that appears on the left or right."
+msgstr ""
+
+#: ../functions.php:108
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:110 ../functions.php:119 ../functions.php:128
+msgid "One of three widget areas that will apear at the bottom of the site."
+msgstr ""
+
+#: ../functions.php:117
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:204 ../functions.php:207 ../functions.php:217
+#: ../functions.php:220
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../functions/customizer_controller.php:45
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../functions/customizer_settings.php:36
+msgid "Check out Pro Version"
+msgstr ""
+
+#: ../functions/customizer_settings.php:57
+msgid "RSS url"
+msgstr ""
+
+#: ../functions/customizer_settings.php:58
+msgid "LinkedIn url"
+msgstr ""
+
+#: ../functions/customizer_settings.php:59
+msgid "Facebook url"
+msgstr ""
+
+#: ../functions/customizer_settings.php:60
+msgid "Google + url"
+msgstr ""
+
+#: ../functions/customizer_settings.php:64
+msgid "Hide Categories"
+msgstr ""
+
+#: ../functions/customizer_settings.php:65
+msgid "Hide Date"
+msgstr ""
+
+#: ../functions/customizer_settings.php:69
+msgid "Show Sidebar on Pages"
+msgstr ""
+
+#: ../functions/customizer_settings.php:70
+msgid "Show Sidebar on Archives/Tags/Categories"
+msgstr ""
+
+#: ../functions/customizer_settings.php:74
+#: ../functions/customizer_settings.php:83
+msgid "Background Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:75
+msgid "Main Text Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:76
+msgid "Article Background Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:77
+msgid "Article Title Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:78
+msgid "Highlight Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:79
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:84
+msgid "Title Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:85
+msgid "Tagline Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:86
+msgid "Title & Tagline Hover Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:90
+msgid "Widget Area Background Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:91
+msgid "Widget Area Text Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:92
+msgid "Widget Area Highlight Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:93
+msgid "Widget Area Highlight Hover Color"
+msgstr ""
+
+#: ../functions/customizer_settings.php:97
+msgid "Hide Widget Area"
+msgstr ""
+
+#: ../functions/customizer_settings.php:116
+msgid "Thin"
+msgstr ""
+
+#: ../functions/customizer_settings.php:117
+msgid "Light"
+msgstr ""
+
+#: ../functions/customizer_settings.php:118
+msgid "Regular"
+msgstr ""
+
+#: ../functions/customizer_settings.php:119
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../functions/customizer_settings.php:120
+msgid "Bold"
+msgstr ""
+
+#: ../functions/customizer_settings.php:121
+msgid "Extra Bold"
+msgstr ""
+
+#: ../functions/customizer_settings.php:124
+msgid "Extra Small"
+msgstr ""
+
+#: ../functions/customizer_settings.php:125
+msgid "Small"
+msgstr ""
+
+#: ../functions/customizer_settings.php:126
+msgid "Medium"
+msgstr ""
+
+#: ../functions/customizer_settings.php:127
+msgid "Large"
+msgstr ""
+
+#: ../functions/customizer_settings.php:128
+msgid "Extra Large"
+msgstr ""
+
+#: ../functions/customizer_settings.php:129
+msgid "XX Large"
+msgstr ""
+
+#: ../functions/customizer_settings.php:132
+msgid "Site Navigation"
+msgstr ""
+
+#: ../functions/customizer_settings.php:133
+#: ../functions/customizer_settings.php:188
+#: ../functions/customizer_settings.php:193
+msgid "Site Title"
+msgstr ""
+
+#: ../functions/customizer_settings.php:134
+msgid "Site Tagline"
+msgstr ""
+
+#: ../functions/customizer_settings.php:135
+msgid "Body Text"
+msgstr ""
+
+#: ../functions/customizer_settings.php:136
+msgid "Headers"
+msgstr ""
+
+#: ../functions/customizer_settings.php:149
+msgid "Header Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:153
+msgid "Global Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:157
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:161
+msgid "Footer Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:166
+msgid "Post &amp; Page Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:171
+msgid "Color Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:176
+msgid "Font Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:189
+#: ../functions/customizer_settings.php:194
+#: ../functions/customizer_settings.php:199
+#: ../functions/customizer_settings.php:204
+msgid ""
+"<strong>Note.</strong><br />Please enable tags section checkbox for activate "
+"and use Google Web Fonts on selected tags."
+msgstr ""
+
+#: ../functions/customizer_settings.php:190
+#: ../functions/customizer_settings.php:195
+#: ../functions/customizer_settings.php:200
+#: ../functions/customizer_settings.php:205
+msgid "indie_font_panel"
+msgstr ""
+
+#: ../functions/customizer_settings.php:198
+#: ../functions/customizer_settings.php:203
+msgid "Body Fonts"
+msgstr ""
+
+#: ../functions/customizer_settings.php:211
+msgid "Footer Area Colors"
+msgstr ""
+
+#: ../functions/customizer_settings.php:216
+msgid "Site Icons"
+msgstr ""
+
+#: ../functions/customizer_settings.php:222
+msgid "Site Layout"
+msgstr ""
+
+#: ../functions/customizer_settings.php:227
+msgid "Main Body Colors"
+msgstr ""
+
+#: ../functions/customizer_settings.php:232
+#: ../functions/customizer_settings.php:746
+msgid "Custom CSS"
+msgstr ""
+
+#: ../functions/customizer_settings.php:238
+msgid "Homepage Layout"
+msgstr ""
+
+#: ../functions/customizer_settings.php:246
+msgid "Logo &amp; Header Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:252
+msgid "Social Media Accounts"
+msgstr ""
+
+#: ../functions/customizer_settings.php:259
+msgid "Header Area Colors"
+msgstr ""
+
+#: ../functions/customizer_settings.php:265
+msgid "Single Post Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:270
+msgid "Page Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:286
+msgid "Copyright Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:292
+msgid "Hide Footer Sections"
+msgstr ""
+
+#: ../functions/customizer_settings.php:298
+msgid "Display Widget Settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:560
+msgid "Hide Site Title"
+msgstr ""
+
+#: ../functions/customizer_settings.php:572
+msgid "Hide Tagline"
+msgstr ""
+
+#: ../functions/customizer_settings.php:634
+msgid "Override custom colors with pre-defined color scheme below"
+msgstr ""
+
+#: ../functions/customizer_settings.php:647
+msgid "Choose Color Scheme"
+msgstr ""
+
+#: ../functions/customizer_settings.php:653
+msgid "Beau Blue"
+msgstr ""
+
+#: ../functions/customizer_settings.php:654
+msgid "Firebrick Red"
+msgstr ""
+
+#: ../functions/customizer_settings.php:655
+msgid "Mango Tango"
+msgstr ""
+
+#: ../functions/customizer_settings.php:656
+msgid "Celadon green"
+msgstr ""
+
+#: ../functions/customizer_settings.php:671
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../functions/customizer_settings.php:683
+msgid "Upload Apple App Icon"
+msgstr ""
+
+#: ../functions/customizer_settings.php:713
+msgid "Upload Background Image or Texture"
+msgstr ""
+
+#: ../functions/customizer_settings.php:725
+#: ../functions/customizer_settings.php:865
+msgid "Background Repeat Image"
+msgstr ""
+
+#: ../functions/customizer_settings.php:731
+#: ../functions/customizer_settings.php:871
+msgid "No Repeat"
+msgstr ""
+
+#: ../functions/customizer_settings.php:732
+#: ../functions/customizer_settings.php:872
+msgid "Tile"
+msgstr ""
+
+#: ../functions/customizer_settings.php:733
+#: ../functions/customizer_settings.php:873
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../functions/customizer_settings.php:734
+#: ../functions/customizer_settings.php:874
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../functions/customizer_settings.php:761
+msgid "Enable Featured Slider"
+msgstr ""
+
+#: ../functions/customizer_settings.php:774
+msgid "Select Featured Category"
+msgstr ""
+
+#: ../functions/customizer_settings.php:786
+msgid "Hide Featured Category"
+msgstr ""
+
+#: ../functions/customizer_settings.php:799
+msgid "Amount of Slides"
+msgstr ""
+
+#: ../functions/customizer_settings.php:815
+msgid "Show Sidebar on homepage"
+msgstr ""
+
+#: ../functions/customizer_settings.php:846
+msgid "Number of columns"
+msgstr ""
+
+#: ../functions/customizer_settings.php:852
+msgid "One Column"
+msgstr ""
+
+#: ../functions/customizer_settings.php:853
+msgid "Two Column"
+msgstr ""
+
+#: ../functions/customizer_settings.php:886
+msgid "Upload Logo"
+msgstr ""
+
+#: ../functions/customizer_settings.php:898
+msgid "Upload Logo (Retina Version)"
+msgstr ""
+
+#: ../functions/customizer_settings.php:911
+msgid "Top & Bottom Logo Padding"
+msgstr ""
+
+#: ../functions/customizer_settings.php:925
+msgid "Left & Right Logo Padding"
+msgstr ""
+
+#: ../functions/customizer_settings.php:939
+msgid "Logo Position"
+msgstr ""
+
+#: ../functions/customizer_settings.php:945
+msgid "Left"
+msgstr ""
+
+#: ../functions/customizer_settings.php:946
+msgid "Center"
+msgstr ""
+
+#: ../functions/customizer_settings.php:947
+msgid "Right"
+msgstr ""
+
+#: ../functions/customizer_settings.php:971
+msgid "Enable these settings"
+msgstr ""
+
+#: ../functions/customizer_settings.php:981
+msgid "Font Family"
+msgstr ""
+
+#: ../functions/customizer_settings.php:988
+msgid "Font Weight"
+msgstr ""
+
+#: ../functions/customizer_settings.php:995
+msgid "Font Size"
+msgstr ""
+
+#: ../functions/customizer_settings.php:1005
+msgid "Copyright Strapline"
+msgstr ""
+
+#: ../functions/customizer_settings.php:1014
+msgid "Hide Footer Widget Area"
+msgstr ""
+
+#: ../functions/customizer_settings.php:1027
+msgid "Hide Copyright Bar"
+msgstr ""
+
+#: ../functions/customizer_settings.php:1044
+msgid "Background Image"
+msgstr ""
+
+#: ../header.php:37
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:44
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:55
+msgid "Search"
+msgstr ""
+
+#: ../header.php:60
+msgid "Search for then press enter"
+msgstr ""
+
+#: ../header.php:61
+msgid "type and hit enter"
+msgstr ""
+
+#: ../header.php:62
+msgid "Type your search keyword, and press enter to search"
+msgstr ""
+
+#: ../header.php:71
+msgid "Social"
+msgstr ""
+
+#: ../inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:119
+msgid "Comment navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+msgid "Older Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:126
+msgid "Newer Comments"
+msgstr ""
+
+#: ../inc/templates/related_posts.php:27
+msgid "You Might Also Like"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

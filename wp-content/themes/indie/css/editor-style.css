@@ -1,0 +1,8 @@
+/* 
+ * Customize your editor using this stylesheet
+*/
+#tinymce{
+	margin: 10px;
+	background-color: #fff;
+	color: #000;
+}
